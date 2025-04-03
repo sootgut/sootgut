@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 Also known as **.** @🇪🇪
 - **
-
++ ❄️ = ❤️‍🔥🌊🇪🇪🪩🏙🛢🌊❄️🪬🧊🥏💠🌌🪼🗨🐋🩻🏴‍☠️⚛️
 ### Fallin' in ❤️ with -->
 <p align="center" style="font-weight: bold">
 <img src="https://img.shields.io/badge/-1a1b26.svg?logo=typescript&logoColor=007acc&style=flat-square"> &
